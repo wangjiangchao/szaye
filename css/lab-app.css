@@ -1,0 +1,46 @@
+.wrap{
+	width:100%;
+}
+.biaoti{
+	font-size: 30px;
+    line-height: 60px;
+}
+.lab-top{
+	padding-top:25px;	
+}
+.biaoti1-top{	
+	font-size:18px;
+	margin: 10px 0;
+}
+.biaoti1-bottom{
+	font-size:14px;
+}
+.lab-neirong-right{
+	width:100%;
+}
+.lab-list{
+	display: none;
+}
+.lab-list>li{
+	display: block;
+	margin: 0px;
+}
+.ssss{
+	width:88px;
+	height:30px;
+	margin: auto;
+	background:url(../img/lab-img/lab-img5.png) no-repeat;
+	background-size: cover;
+}
+.right-wenzi1{
+	font-size: 14px;
+	text-indent: 10px;
+}
+.right-wenzi2{
+	font-size: 12px;
+	text-indent: 13px;
+}
+.big{
+	font-size:18px !important;
+	font-weight: 600 !important;
+}
